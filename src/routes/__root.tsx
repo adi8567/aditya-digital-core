@@ -29,14 +29,18 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Aditya" },
+      { name: "description", content: "A professional personal portfolio web application showcasing skills, projects, and contact information with a cyberpunk-glass aesthetic." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Aditya" },
+      { property: "og:description", content: "A professional personal portfolio web application showcasing skills, projects, and contact information with a cyberpunk-glass aesthetic." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Aditya" },
+      { name: "twitter:description", content: "A professional personal portfolio web application showcasing skills, projects, and contact information with a cyberpunk-glass aesthetic." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b68d196f-fc06-4f25-935a-8352179c2c30/id-preview-1ba3e5eb--a404bdb5-43f5-4b32-bc5c-f802690c6a05.lovable.app-1776705003130.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b68d196f-fc06-4f25-935a-8352179c2c30/id-preview-1ba3e5eb--a404bdb5-43f5-4b32-bc5c-f802690c6a05.lovable.app-1776705003130.png" },
     ],
     links: [
       {
